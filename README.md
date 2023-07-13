@@ -18,7 +18,7 @@ pip install pipenv
 ```
 Then run
 ```
-pip install pillow
+pipenv install
 ```
 
 Put folder or image files in input folder and run
